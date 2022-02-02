@@ -1,0 +1,6 @@
+<!D0CTYPE HTM>
+<html lang="en">
+<head>
+<title>test for github mini Course</title>
+</head>
+<body></body>
